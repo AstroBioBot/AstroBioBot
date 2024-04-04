@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AstroBioBot
 - 👀 I’m interested in ... geobiological field research + cosplay
 - 🌱 I’m currently learning ... C++ and HTML
+- 🌱 I’m currently improving at ... R
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 - 😄 Pronouns: ... she/her
